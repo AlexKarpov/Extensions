@@ -3,6 +3,7 @@
 # * https://github.com/supermarin/xcpretty#usage
 
 language: objective-c
+podfile: Example/Podfile
 xcode_workspace: Example/Extensions.xcworkspace # path to your xcodeproj folder
 xcode_scheme: Extensions-Example
 xcode_destination: platform=iOS Simulator,OS=13.3,name=iPhone X
