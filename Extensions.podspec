@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Extensions'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Extensions.'
+  s.summary          = 'Small handy extensions for iOS / Swift types.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
