@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/Extensions.svg?style=flat)](https://cocoapods.org/pods/Extensions)
 [![Platform](https://img.shields.io/cocoapods/p/Extensions.svg?style=flat)](https://cocoapods.org/pods/Extensions)
 
+# This pod is under development
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
