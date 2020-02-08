@@ -21,16 +21,18 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Alexander Karpov/Extensions'
+  s.homepage         = 'https://github.com/alexkarpov/Extensions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Alexander Karpov' => 'alex.id.live@gmail.com' }
-  s.source           = { :git => 'https://github.com/Alexander Karpov/Extensions.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'Alexander Karpov' => 'alexander.karpov.dev@gmail.com' }
+  s.source           = { :git => 'https://github.com/alexkarpov/Extensions.git', :tag => s.version.to_s }
+   s.social_media_url = 'https://twitter.com/alexander_krpv'
 
-  s.ios.deployment_target = '8.0'
+  s.requires_arc = true
+  s.swift_version = '5.0'
+  s.ios.deployment_target = '11.0'
 
-  s.source_files = 'Extensions/Classes/**/*'
+  s.source_files = 'Source/Classes/**/*'
   
   # s.resource_bundles = {
   #   'Extensions' => ['Extensions/Assets/*.png']

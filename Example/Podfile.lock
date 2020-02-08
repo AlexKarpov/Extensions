@@ -1,0 +1,16 @@
+PODS:
+  - Extensions (0.1.0)
+
+DEPENDENCIES:
+  - Extensions (from `../`)
+
+EXTERNAL SOURCES:
+  Extensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Extensions: fa3698586b74cc4495a711543a4b953a462f4ab8
+
+PODFILE CHECKSUM: aa8e3c8405ece8a7e2aeded500ef44a5b9cc00ee
+
+COCOAPODS: 1.8.4
